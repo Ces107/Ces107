@@ -2,7 +2,7 @@
 
 Biomedical engineer and backend developer based in Valencia, Spain.
 
-I work on the intersection of medical imaging, healthcare interoperability and compliance tooling. Day job is Java/Spring on hospital information systems at [Laberit](https://www.laberit.com/). On the side I build small, focused tools around DICOM, FHIR and the regulatory surface that comes with shipping software into clinical environments (MDR, GDPR, SBOMs).
+I work on the intersection of software engineering, healthcare interoperability and compliance tooling. Day job is Java/Spring on hospital information systems at [Laberit](https://www.laberit.com/). On the side I build small, focused tools around DICOM, FHIR and the regulatory surface that comes with shipping software into clinical environments (MDR, GDPR, SBOMs).
 
 ### What I work on
 
