@@ -12,10 +12,10 @@ Backend in Java / Spring Boot. Two years writing production code against HIS/RIS
 
 ### Selected repos
 
-- [dcm-anon](https://github.com/Ces107/dcm-anon) — DICOM anonymization toolkit, mapped to GDPR Art. 35 DPIA and HIPAA Safe Harbor.
-- [dcm-anon-vault](https://github.com/Ces107/dcm-anon-vault) — hosted single-tenant pseudonymization API on top of dcm-anon, PS3.15 Basic Profile, deterministic per-customer UID remap.
-- [fmm-fairness-eval-cli](https://github.com/Ces107/fmm-fairness-eval-cli) — fairness and bias evaluation CLI for medical AI (research output from the TFG line of work).
-- [zesFin](https://github.com/Ces107/zesFin) — personal finance + FIRE calculator, Spring Boot REST + React/Vite/TS. Side project, Boglehead-style portfolio manager.
+- [dcm-anon](https://github.com/Ces107/dcm-anon): DICOM anonymization toolkit, mapped to GDPR Art. 35 DPIA and HIPAA Safe Harbor.
+- [dcm-anon-vault](https://github.com/Ces107/dcm-anon-vault): hosted single-tenant pseudonymization API on top of dcm-anon, PS3.15 Basic Profile, deterministic per-customer UID remap.
+- [fmm-fairness-eval-cli](https://github.com/Ces107/fmm-fairness-eval-cli): fairness and bias evaluation CLI for medical AI, research output from the TFG line of work.
+- [zesFin](https://github.com/Ces107/zesFin): personal finance and FIRE calculator, Spring Boot REST + React/Vite/TS. Side project, Boglehead-style portfolio manager.
 
 I also curate a few `awesome-*` lists in areas adjacent to the work above: [healthcare](https://github.com/Ces107/awesome-healthcare), [FHIR](https://github.com/Ces107/awesome-FHIR), [DICOM](https://github.com/Ces107/awesome-dicom), [SBOM](https://github.com/Ces107/awesome-sbom), [GDPR](https://github.com/Ces107/awesome-gdpr), [compliance](https://github.com/Ces107/awesome-compliance).
 
